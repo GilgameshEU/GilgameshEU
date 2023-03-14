@@ -30,9 +30,9 @@ I am a **junior** Front-End Developer.
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="vscode" alt="mysql" width="40" height="40"/>
 
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="vscode" alt="express" width="40" height="40"/>
 
 
 &nbsp;
