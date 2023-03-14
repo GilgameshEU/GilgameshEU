@@ -22,17 +22,15 @@ I am a **junior** Front-End Developer.
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> 
-
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="vscode" alt="mysql" width="40" height="40"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
 
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="vscode" alt="express" width="40" height="40"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>
 
 
 &nbsp;
