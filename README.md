@@ -7,7 +7,7 @@ I am a **junior** Full Stack Developer.
 ### My project experience
 - 📄  <a href="https://github.com/GilgameshEU/anonymous-chat_front/blob/main/README.md">Anonymous chat<a/>
 - 📄  <a href="https://github.com/GilgameshEU/GilgameshEU.github.io">Random user generator<a/>
-- 📄  <a href="https://github.com/GilgameshEU/courseProjectFront">Сollection management web application<a/>
+- 📄  <a href="https://github.com/GilgameshEU/courseProjectFront">Сollections management web application<a/>
 
 
 ### My stack languages and tools:
