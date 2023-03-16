@@ -2,7 +2,7 @@
 I am a **junior** Full Stack Developer.
 - 🌱 I’m currently learning coding.
 - 📫 How to reach me:
-   [![Linkedin Badge](https://img.shields.io/badge/-epanshin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9-%D0%BF%D0%B0%D0%BD%D1%8C%D1%88%D0%B8%D0%BD-b786511b2/)
+   [![Linkedin Badge](https://img.shields.io/badge/-epanshin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgeny-panshin-b786511b2/)
   
 ### My project experience
 - 📄  <a href="https://github.com/GilgameshEU/anonymous-chat_front/blob/main/README.md">Anonymous chat<a/>
