@@ -33,7 +33,7 @@ I am a **junior** Full Stack Developer.
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
 
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/github/php-original.svg" title="php" alt="php" width="40" height="40"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>
 
 &nbsp;
 
