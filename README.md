@@ -1,8 +1,5 @@
 ### Hi there, I'm Evgeny 👋
-I am a **junior** Full Stack Developer.
-- 🌱 I’m currently learning coding.
-- 📫 How to reach me:
-   [![Linkedin Badge](https://img.shields.io/badge/-epanshin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evgeny-panshin-b786511b2/)
+I am a Full Stack Developer.
   
 ### My project experience
 - 📄  <a href="https://github.com/GilgameshEU/anonymous-chat_front/blob/main/README.md">Anonymous chat<a/>
